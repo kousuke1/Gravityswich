@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Out
   - Stage
+  - Coin
   layers:
   - Default
   - TransparentFX

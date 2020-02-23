@@ -20,6 +20,7 @@ public class StageScripts : MonoBehaviour
     {
         number = Random.Range (0, stage.Length); 
     }
+    
     private IEnumerator loop() {
         while (true) {
             yield return new WaitForSeconds(1f);

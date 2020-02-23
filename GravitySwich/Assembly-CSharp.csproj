@@ -45,8 +45,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Coinscripts.cs" />
      <Compile Include="Assets\Scripts\GameOverScripts.cs" />
      <Compile Include="Assets\Scripts\PlayerScripts.cs" />
+     <Compile Include="Assets\Scripts\Pointscripts.cs" />
      <Compile Include="Assets\Scripts\StageScripts.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/barus/Desktop/GravitySwich/GravitySwich/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
